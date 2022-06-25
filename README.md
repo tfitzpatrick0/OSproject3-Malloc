@@ -5,6 +5,7 @@ This is [Project 03] of [CSE.30341.FA21].
 ## Students
 
 1. Tim Fitzpatrick (tfitzpa3@nd.edu)
+2. Parker Scalon (pscanlo2@nd.edu)
 
 ## Brainstorming
 
@@ -86,7 +87,7 @@ brainstorming questions are not required.
 
 ## Demonstration
 
-> Link to **video demonstration** of **chat application**.
+https://www.youtube.com/watch?v=GLTLGUPntVQ
 
 ## Errata
 
