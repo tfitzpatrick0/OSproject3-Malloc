@@ -1,0 +1,8 @@
+.DS_Store
+
+bin/unit_*
+bin/test_*
+lib/libmalloc*.so
+test.log
+*.o
+*.swp
