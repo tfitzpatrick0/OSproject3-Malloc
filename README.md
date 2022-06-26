@@ -91,7 +91,7 @@ https://www.youtube.com/watch?v=GLTLGUPntVQ
 
 ## Errata
 
-> Describe any known errors, bugs, or deviations from the requirements.
+There are no errors/deviations from the requirements.
 
 [Project 03]:       https://www3.nd.edu/~pbui/teaching/cse.30341.fa21/project03.html
 [CSE.30341.FA21]:   https://www3.nd.edu/~pbui/teaching/cse.30341.fa21/
