@@ -2,7 +2,7 @@
 
 This is [Project 03] of [CSE.30341.FA21].
 
-## Students
+## Implemented by
 
 1. Tim Fitzpatrick (tfitzpa3@nd.edu)
 2. Parker Scalon (pscanlo2@nd.edu)
